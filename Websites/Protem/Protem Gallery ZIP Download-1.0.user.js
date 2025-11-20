@@ -5,6 +5,8 @@
 // @description  Downloads all pics of the gallery with just one click into a .zip folder and renames the files after gallery name and number
 // @match        https://protem.site/gallery/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/USERNAME/REPO/main/websites/youtube/scripts/deinScript.user.js
+// @homepageURL  https://github.com/GoonersDev/Tampermonkey/
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=protem.site
 // @license      CC BY-NC-SA 4.0
